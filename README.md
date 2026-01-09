@@ -1,8 +1,18 @@
 # 🚩 Tank Gladiators
 
 > **The ultimate retro tank warfare experience.** > *Developed for the January 17th Game Showcase.*
+<img width="1920" height="1080" alt="sample 1" src="https://github.com/user-attachments/assets/146aeb1b-aa23-437f-b4fa-ca669817257d" />
 
-![Game Screenshot](https://via.placeholder.com/1000x500?text=Upload+Your+Game+Screenshot+Here)
+<img width="1920" height="1080" alt="sample 2" src="https://github.com/user-attachments/assets/e5222892-9884-48fc-a52f-47026de0bf66" />
+
+
+<img width="1920" height="1080" alt="sample 3" src="https://github.com/user-attachments/assets/acb2baec-40d0-4a6c-80ac-ea3e775276e3" />
+
+<img width="1920" height="1080" alt="sample 4" src="https://github.com/user-attachments/assets/f4587ca5-eb5e-489e-ab6a-7498b59980b6" />
+
+
+
+
 ## 🎮 About The Game
 
 **Tank Gladiators** is a high-performance, 2D tactical shooter built entirely from scratch using **Vanilla JavaScript** and **HTML5 Canvas**. 
